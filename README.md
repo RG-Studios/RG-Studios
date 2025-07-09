@@ -1,6 +1,24 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RG-Studios&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+# 💫 Hi 👋, I'm Wahid Yaseen
+**A passionate Cybersecurity Expert || AI/ML Expert || from India**
+
+Email Me 👉 ✉️ **bhatmajid707@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** System Automation
+- 🌱 **I’m currently learning:** AI/ML
+- 👯 **I’m looking to collaborate on:** E-commerce Web Application
+- 🤔 **I’m looking for help with:** Backend
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** bhatmajid707@gmail.com
+- 😄 **Pronouns:** Er. Wahid
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+## 🔗 I am a Content Creator. 😊😊
+
+Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/xain.zain.50159) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhat_wahid_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wahid-yaseen-1342972a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhatmajid707@gmail.com) 
 
