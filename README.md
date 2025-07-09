@@ -1,8 +1,8 @@
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RG-Studios&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 # 💫 Hi 👋, I'm Wahid Yaseen
 **A passionate Cybersecurity Expert || AI/ML Expert || from India**
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RG-Studios&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 Email Me 👉 ✉️ **bhatmajid707@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
