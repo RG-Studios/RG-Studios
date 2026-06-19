@@ -31,14 +31,17 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic\&logo=c%2B%2B\&logoColor=white)
 
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic\&logo=react\&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic\&logo=next.js\&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic\&logo=node.js\&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic\&logo=flask\&logoColor=white)
 
+
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic\&logo=postgresql\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic\&logo=supabase\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic\&logo=sqlite\&logoColor=white)
+
 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic\&logo=opencv\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic\&logo=PyTorch\&logoColor=white)
@@ -47,16 +50,23 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic\&logo=Matplotlib\&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic\&logo=scikit-learn\&logoColor=white)
 
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic\&logo=github\&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic\&logo=npm\&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic\&logo=docker\&logoColor=white)
+
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic\&logo=figma\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic\&logo=Canva\&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=plastic\&logo=framer\&logoColor=blue)
+
+
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic\&logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic\&logo=render\&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic\&logo=Cloudflare\&logoColor=white)
+
+
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic\&logo=windows-terminal\&logoColor=white)
 
 
