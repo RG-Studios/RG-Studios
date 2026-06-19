@@ -1,26 +1,33 @@
-# 💫 Hi 👋, I'm Wahid Yaseen
-**A passionate Cybersecurity Expert || AI/ML Expert || from India**
+# 👋 Hi, I'm Wahid Yaseen
+### Founder of RG-Studios | Full Stack Developer | AI Application Developer
+Building AI-powered SaaS products, intelligent automation systems, and scalable web applications through RG-Studios.
+
+[![](https://visitcount.itsvg.in/api?id=RG-Studios&icon=10&color=13)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RG-Studios&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Email Me 👉 ✉️ **bhatmajid707@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+📫 Contact: **bhatmajid707@gmail.com**
 
-- 🔭 **I’m currently working on:** System Automation
-- 🌱 **I’m currently learning:** AI/ML
-- 👯 **I’m looking to collaborate on:** E-commerce Web Application
-- 🤔 **I’m looking for help with:** Backend
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** bhatmajid707@gmail.com
-- 😄 **Pronouns:** Er. Wahid
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
-## 🔗 I am a Content Creator. 😊😊
-
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
+* 🔭 Currently Building: RecruitIQ, Pic Reborn & AI App Builder
+* 🌱 Learning: Advanced AI Systems, LLMs & SaaS Architecture
+* 👯 Open To: Freelance Projects, SaaS Development & Collaborations
+* 💬 Ask Me About: Next.js, AI Applications, Full Stack Development
+* 📫 Contact: [bhatmajid707@gmail.com](mailto:bhatmajid707@gmail.com)
+* ⚡ Founder of RG-Studios
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/xain.zain.50159) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhat_wahid_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wahid-yaseen-1342972a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhatmajid707@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhat_wahid_02) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wahid-yaseen-1342972a4) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhatmajid707@gmail.com) 
+
+## 🏢 RG-Studios
+RG-Studios is focused on building AI-powered SaaS products, automation platforms, and modern web applications.
+### Core Areas
+* SaaS Development
+* AI Applications
+* Automation Systems
+* Full Stack Web Development
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic\&logo=html5\&logoColor=white)
@@ -76,22 +83,33 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## 🚀 Featured Projects
+### RecruitIQ
+AI-powered recruitment platform that matches candidates with jobs using resume analysis, intelligent ranking, and automated hiring workflows.
+### Pic Reborn
+AI image restoration platform capable of enhancing, reconstructing, and improving damaged or low-quality images.
+### AI App Builder
+Visual drag-and-drop application builder that generates complete project structures and production-ready code.
+### Communication Platform
+Real-time communication platform featuring messaging, collaboration tools, and video calling capabilities.
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RG-Studios&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RG-Studios&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RG-Studios&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🎯 Tech Focus
+* AI & Machine Learning
+* SaaS Product Development
+* Full Stack Web Applications
+* Automation Systems
+* Modern Cloud Deployments
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RG-Studios&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RG-Studios&icon=10&color=13)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/wahidyaseen) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
